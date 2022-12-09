@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStore", "VideoStore\VideoStore.csproj", "{135CD7BC-E27C-4D7B-A087-22C90E77F966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStore.Core", "VideoStore.Core\VideoStore.Core.csproj", "{529C2C51-BB9F-44FB-8AFE-A44AD9D03256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135CD7BC-E27C-4D7B-A087-22C90E77F966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135CD7BC-E27C-4D7B-A087-22C90E77F966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135CD7BC-E27C-4D7B-A087-22C90E77F966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135CD7BC-E27C-4D7B-A087-22C90E77F966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529C2C51-BB9F-44FB-8AFE-A44AD9D03256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529C2C51-BB9F-44FB-8AFE-A44AD9D03256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529C2C51-BB9F-44FB-8AFE-A44AD9D03256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529C2C51-BB9F-44FB-8AFE-A44AD9D03256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AF1B501-6BB2-4262-A968-B27E57BBCBDD}
+	EndGlobalSection
+EndGlobal
